@@ -23,27 +23,27 @@ Telco Customer Churn Dataset
 
 21 Columns:
 
-· CustomerID  
-· Gender
-· SeniorCitizen 
-· Partner
-· Dependents 
-· Tenure
-· PhoneService
-· MultipleLines
-· InternetSerice
-· OnlineSecurity
-· OnlineBackup 
-· DeviceProtection   
-· TechSupport
-· StreamingTV
-· StreamingMovies
-· Contract 
-· PaperlessBilling
-· PaymentMethod
-· MonthlyCharges
-· TotalCharges
-· Churn
+· CustomerID    
+· Gender    
+· SeniorCitizen     
+· Partner     
+· Dependents     
+· Tenure     
+· PhoneService     
+· MultipleLines     
+· InternetSerice    
+· OnlineSecurity    
+· OnlineBackup     
+· DeviceProtection       
+· TechSupport     
+· StreamingTV      
+· StreamingMovies    
+· Contract       
+· PaperlessBilling      
+· PaymentMethod      
+· MonthlyCharges     
+· TotalCharges     
+· Churn      
 
 
  
