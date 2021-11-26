@@ -1,4 +1,4 @@
-# Predicting-Customer-Churn
+# Customer Churn Prediction
 
 Derek Plemons
 Springboard Data Science Career Track
